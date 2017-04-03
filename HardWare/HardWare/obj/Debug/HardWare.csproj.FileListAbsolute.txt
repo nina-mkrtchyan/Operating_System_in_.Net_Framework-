@@ -1,0 +1,19 @@
+c:\users\shavarsh\documents\visual studio 2012\Projects\HardWare\HardWare\bin\Debug\HardWare.exe.config
+F:\Operatyng_System_CSharp_2017\HardWare\HardWare\bin\Debug\HardWare.exe.config
+F:\Operatyng_System_CSharp_2017\HardWare\HardWare\obj\Debug\HardWare.csprojResolveAssemblyReference.cache
+H:\Operatyng_System_CSharp_2017\HardWare\HardWare\bin\Debug\HardWare.exe.config
+H:\Operatyng_System_CSharp_2017\HardWare\HardWare\bin\Debug\HardWare.exe
+H:\Operatyng_System_CSharp_2017\HardWare\HardWare\bin\Debug\HardWare.pdb
+H:\Operatyng_System_CSharp_2017\HardWare\HardWare\obj\Debug\HardWare.exe
+H:\Operatyng_System_CSharp_2017\HardWare\HardWare\obj\Debug\HardWare.pdb
+F:\Operatyng_System_CSharp_2017\HardWare\HardWare\bin\Debug\HardWare.exe
+F:\Operatyng_System_CSharp_2017\HardWare\HardWare\bin\Debug\HardWare.pdb
+F:\Operatyng_System_CSharp_2017\HardWare\HardWare\obj\Debug\HardWare.exe
+F:\Operatyng_System_CSharp_2017\HardWare\HardWare\obj\Debug\HardWare.pdb
+H:\Operatyng_System_CSharp_2017\HardWare\HardWare\obj\Debug\HardWare.csprojResolveAssemblyReference.cache
+E:\Operatyng_System_CSharp_2017\HardWare\HardWare\bin\Debug\HardWare.exe.config
+E:\Operatyng_System_CSharp_2017\HardWare\HardWare\obj\Debug\HardWare.exe
+E:\Operatyng_System_CSharp_2017\HardWare\HardWare\obj\Debug\HardWare.pdb
+C:\Users\Nin\Desktop\Operatyng_System_CSharp_2017\HardWare\HardWare\bin\Debug\HardWare.exe.config
+C:\Users\Nin\Desktop\Operatyng_System_CSharp_2017\HardWare\HardWare\obj\Debug\HardWare.exe
+C:\Users\Nin\Desktop\Operatyng_System_CSharp_2017\HardWare\HardWare\obj\Debug\HardWare.pdb
